@@ -51,9 +51,9 @@ INSTALLED_APPS = [
     'userAuth',
 ]
 
+
 SITE_ID = 2
-
-
+LOGIN_REDIRECT_URL = 'home'
 
 # Provider specific settings
 SOCIALACCOUNT_PROVIDERS = {
