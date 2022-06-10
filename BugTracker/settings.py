@@ -53,7 +53,7 @@ INSTALLED_APPS = [
 
 
 SITE_ID = 2
-LOGIN_REDIRECT_URL = 'home'
+#LOGIN_REDIRECT_URL = 'home'
 
 # Provider specific settings
 SOCIALACCOUNT_PROVIDERS = {
