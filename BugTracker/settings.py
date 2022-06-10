@@ -51,7 +51,7 @@ INSTALLED_APPS = [
     'userAuth',
 ]
 
-SITE_ID = 1
+SITE_ID = 2
 
 
 
